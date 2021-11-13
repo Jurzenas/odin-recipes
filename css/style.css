@@ -10,9 +10,19 @@ img {
     margin: auto;   
 }
 
+button {
+    display: block;
+    height: 20px;
+    background-color: rgb(171, 240, 240);
+    border: none;
+}
+button:hover {
+    background-color:rgb(235, 192, 219);
+}
+
 p {
     text-align: center;
-    
+
 }
 .responsive {
     max-width: 550px;
@@ -28,3 +38,4 @@ ul, ol {
 a {
     display: block;
 }
+
