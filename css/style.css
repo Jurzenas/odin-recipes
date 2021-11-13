@@ -2,12 +2,16 @@ body {background-color: rgb(171, 240, 240);}
 
 h1, h2 {
     text-align: center;
+    color: rgb(147, 18, 115);
 }
 
 img {
     display: block;
-    width: 450px;
     margin: auto;   
+}
+.responsive {
+    width: 40%;
+    height: auto;
 }
 
 ul, ol {
